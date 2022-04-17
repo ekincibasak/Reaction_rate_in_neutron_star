@@ -12,8 +12,10 @@ When there are too many neutrons, i.e. when mu l = mu n -mu p - mu e is positive
 
 # References
 
-[1] https://compose.obspm.fr/home
+[1] https://einsteintoolkit.org/
 
-[2] https://einsteintoolkit.org/
+[2] https://arxiv.org/abs/1005.3769
 
-[3] https://arxiv.org/abs/1005.3769
+[3] https://compose.obspm.fr/home
+
+
